@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import SmallCard from './SmallCard';
 
 let productsInDataBase = {
-    color: 'primary',
+    color: 'info',
     titulo: 'Productos en la Data Base',
     
     icono: 'fa-clipboard-list',
