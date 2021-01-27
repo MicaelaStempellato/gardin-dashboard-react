@@ -7,11 +7,14 @@ import Content from './Content';
 import Nosotros from './Nosotros';
 import UltimoProducto from './UltimoProducto';
 
+//color_sidebar
+//bg-gradient-primary
+
 function SideBar(){
  return(
    <React.Fragment>
        {/*<!-- Sidebar -->*/}
-		<ul className="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+		<ul className="navbar-nav color_sidebar sidebar sidebar-dark accordion" id="accordionSidebar">
 
 			{/*<!-- Sidebar - Brand -->*/}
 			<a className="sidebar-brand d-flex align-items-center justify-content-center" href="/">

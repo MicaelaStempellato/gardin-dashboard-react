@@ -1,0 +1,32 @@
+/*
+Colores
+
+Verde Oscuro #4B9C45
+Verde Claro #9AD08F
+Otro verde #80a37d
+Rojo  #C75D5D
+Amarrillo #FFFBE9
+Fondo #D2E8C9
+*/
+
+.color_sidebar {
+    background-color: #80a37d;
+}
+
+
+.color_fondo {
+    background-color:  #D2E8C9;
+}
+
+
+.verde {
+    background-color: #4B9C45;
+}
+
+.amarrillo{
+    background-color: #FFFBE9
+}
+
+.rojo{
+    background-color: #C75D5D
+}
